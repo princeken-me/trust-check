@@ -1,0 +1,8 @@
+{
+  "name": "TrustCheck",
+  "description": "Global trust and risk intelligence platform providing evidence-based verification, risk signal analysis, and trust scores for entities worldwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
